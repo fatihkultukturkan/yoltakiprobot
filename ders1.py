@@ -1,0 +1,1 @@
+print ("Biraz biraz başlayalım")
