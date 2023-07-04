@@ -3,7 +3,7 @@
 import cv2
 
 # capture frames from a video
-cap = cv2.VideoCapture( 'cars.mp4')
+cap = cv2.VideoCapture( 'araba.mp4')
 
 # Trained XML classifiers describes some features of some object we want to detect
 car_cascade = cv2.CascadeClassifier( 'cars.xml')

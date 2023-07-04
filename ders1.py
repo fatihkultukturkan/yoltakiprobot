@@ -1,1 +1,1 @@
-print ("Biraz biraz başlayalım")
+import cv2
